@@ -17,7 +17,7 @@ It also test the signal strength and the radio communication.
 2) Sigfox device registration
 <img width="2048" height="1536" alt="deviceReg" src="https://github.com/user-attachments/assets/bddd356e-724d-432e-b0e5-ec2633105d1a" />
 
-3) Sigfox platform
+3) Sigfox to ThingSpeak
 <img width="1536" height="2048" alt="sigfox_dash" src="https://github.com/user-attachments/assets/7bcd18fc-c720-4896-ac03-4efd3954eadb" /><img width="1536" height="2048" alt="sigfox_dash1" src="https://github.com/user-attachments/assets/dc570b5b-b66d-4865-a4da-9e4c589783b3" />
 
 4) Sigfox platform (display of current signal strength)
