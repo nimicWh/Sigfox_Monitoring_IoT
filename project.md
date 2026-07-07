@@ -1,5 +1,5 @@
 # Sigfox_Monitoring
-Testing of Sigfox with various IoT platform.
+Sigfox with various IoT platform.
 The project was done back on 2017. It was posted on my X account (https://x.com/NimicMe), formerly twitter as project.
 
 Sigfox is a Low-Power Wide-Area Network (LPWAN) technology designed for connecting Internet of Things (IoT) devices that need to send small amounts of data over long distances while using very little battery power.
