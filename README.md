@@ -1,4 +1,4 @@
-# Sigfox Monitoring
+# Sigfox Devices for IoT
 
 An end-to-end Internet of Things (IoT) monitoring project using the Sigfox LPWAN network and multiple cloud platforms.
 
@@ -113,6 +113,16 @@ Sensor events were also delivered to Telegram, enabling mobile monitoring and al
 <img width="2048" height="1536" alt="sigfox_to_telegram" src="https://github.com/user-attachments/assets/fdc9044e-3426-455b-ac76-a8da8bd75abf" />
 
 ---
+
+## 8. GPS Module for positioning
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/9a4d98af-4ce3-42d7-9234-e5eeb1c0e3d9" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/c79df2b6-6b57-423b-97d0-a95b4940f150" />
+
+
+
+
+
 
 # Technologies Used
 
